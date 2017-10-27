@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4314f65-f712-4f8b-bc02-ee9b64b26863" name="Default" comment="projekt">
+    <list default="true" id="a4314f65-f712-4f8b-bc02-ee9b64b26863" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/company/Main.java" afterPath="$PROJECT_DIR$/src/main/java/com/company/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,10 +18,9 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="147" column="26" lean-forward="false" selection-start-line="147" selection-start-column="26" selection-end-line="147" selection-end-column="26" />
+            <state relative-caret-position="85">
+              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="method#sprawdz#0;class#Main#0" expanded="false" />
                 <element signature="method#zapis#0;class#Main#0" expanded="false" />
                 <element signature="method#zad1#0;class#Main#0" expanded="false" />
@@ -88,6 +86,11 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="Projekt3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Projekt3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
       <select />
@@ -291,11 +294,25 @@
       <option name="project" value="LOCAL" />
       <updated>1509105078086</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="projekt">
+      <created>1509105899261</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1509105899261</updated>
+    </task>
+    <task id="LOCAL-00007" summary="projekt">
+      <created>1509106146555</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1509106146555</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3872000" />
+    <option name="totallyTimeSpent" value="4585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -370,7 +387,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#sprawdz#0;class#Main#0" expanded="false" />
             <element signature="method#zapis#0;class#Main#0" expanded="false" />
             <element signature="method#zad1#0;class#Main#0" expanded="false" />
@@ -383,7 +399,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#sprawdz#0;class#Main#0" expanded="false" />
             <element signature="method#zapis#0;class#Main#0" expanded="false" />
             <element signature="method#zad1#0;class#Main#0" expanded="false" />
@@ -396,7 +411,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#sprawdz#0;class#Main#0" expanded="false" />
             <element signature="method#zapis#0;class#Main#0" expanded="false" />
             <element signature="method#zad1#0;class#Main#0" expanded="false" />
@@ -451,7 +465,6 @@
         <state relative-caret-position="296">
           <caret line="108" column="0" lean-forward="true" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#sprawdz#0;class#Main#0" expanded="false" />
             <element signature="method#zapis#0;class#Main#0" expanded="false" />
             <element signature="method#zad1#0;class#Main#0" expanded="false" />
@@ -464,7 +477,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#sprawdz#0;class#Main#0" expanded="false" />
             <element signature="method#zapis#0;class#Main#0" expanded="false" />
             <element signature="method#zad1#0;class#Main#0" expanded="false" />
@@ -477,7 +489,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#sprawdz#0;class#Main#0" expanded="false" />
             <element signature="method#zapis#0;class#Main#0" expanded="false" />
             <element signature="method#zad1#0;class#Main#0" expanded="false" />
@@ -490,7 +501,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#sprawdz#0;class#Main#0" expanded="false" />
             <element signature="method#zapis#0;class#Main#0" expanded="false" />
             <element signature="method#zad1#0;class#Main#0" expanded="false" />
@@ -542,10 +552,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="147" column="26" lean-forward="false" selection-start-line="147" selection-start-column="26" selection-end-line="147" selection-end-column="26" />
+        <state relative-caret-position="85">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#sprawdz#0;class#Main#0" expanded="false" />
             <element signature="method#zapis#0;class#Main#0" expanded="false" />
             <element signature="method#zad1#0;class#Main#0" expanded="false" />
